@@ -1,10 +1,10 @@
-<h1 align="center"> Desafio - Quicklist Page </h1>
+<h1 align="center"> Desafio - Quicklist </h1>
 
 <p align= "center">
 Uma página para criação de listas feita como forma de um desafio do curso Fullstack da Rocketseat</p>
 
 <p align="center">
-<a href="https://guilhermedkdk.github.io/js-quicklist-challenge/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://guilhermedkdk.github.io/js-quicklist/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#-desafio">💻 Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Desafio
 
-A Quicklist Page foi um desafio do curso Fullstack da Rocketseat no módulo "JavaScript". Nele, apliquei conceitos de variáveis, manipulação do DOM e eventos para criar uma funcionalidade de reembolso, consolidando os conhecimentos adquiridos no módulo.
+A "Quicklist" foi um desafio do curso Fullstack da Rocketseat no módulo "JavaScript". Nele, apliquei conceitos de variáveis, manipulação do DOM e eventos para criar uma funcionalidade de reembolso, consolidando os conhecimentos adquiridos no módulo.
 
 ## 📚 Aprendizados
 
